@@ -11,11 +11,7 @@ while lista[i]<=x:
     for fac in range(fac):
         num_fac=int(input("numero de factura="))
         
-final=0
-while final<x:
-    final=final+1
-    i=i+1
-    print[i]
+
 
 
 
